@@ -1,4 +1,4 @@
-package ExerciciosAula4;
+package ExerciciosAula5;
 
 import java.util.HashSet;
 import java.util.Scanner;
