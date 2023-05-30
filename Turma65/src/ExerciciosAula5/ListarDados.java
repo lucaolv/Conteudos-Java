@@ -18,7 +18,5 @@ public class ListarDados {
 			setNumeros.add(num);
 		}
 		System.out.println("\nLista de dados Set: " + setNumeros);
-
 	}
-
 }
