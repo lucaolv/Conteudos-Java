@@ -33,5 +33,4 @@ public class EncontrarNumero {
 			System.out.println("O número " + num + " não foi encontrado!");
 		}
 	}
-
 }
