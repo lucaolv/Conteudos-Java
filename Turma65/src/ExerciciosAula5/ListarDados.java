@@ -27,5 +27,4 @@ public class ListarDados {
 			System.out.println(isetNumeros.next());
 		}
 	}
-
 }
