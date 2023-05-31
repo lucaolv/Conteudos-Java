@@ -30,11 +30,9 @@ public class Fila {
 				fila.add(nome);
 				System.out.println("\nCliente Adicionado!");
 			}
-
 			else if (num == 2) {
 				System.out.println("\nLista de Clientes na Fila: \n" + fila);
 			}
-
 			else if (num == 3) {
 				if (fila.isEmpty() == true) {
 					System.out.println(fila.isEmpty());
