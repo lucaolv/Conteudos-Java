@@ -30,7 +30,6 @@ public class Pilha {
 				pilha.add(nome);
 				System.out.println("\nLivro Adicionado!");
 			}
-
 			else if (num == 2) {
 				System.out.println("\nLista de Livros na pilha: \n" + pilha);
 			}
