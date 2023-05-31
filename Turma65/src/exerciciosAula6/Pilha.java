@@ -34,7 +34,6 @@ public class Pilha {
 			else if (num == 2) {
 				System.out.println("\nLista de Livros na pilha: \n" + pilha);
 			}
-
 			else if (num == 3) {
 				if (pilha.isEmpty() == true) {
 					System.out.println(pilha.isEmpty());
